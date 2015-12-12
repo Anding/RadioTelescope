@@ -1,0 +1,35 @@
+---------------------------------------------------------------------------------------------------
+NOTE: to upgrade the software without loosing your settings:
+---------------------------------------------------------------------------------------------------
+
+1) BEFORE installing the new version of the software, find your local settings file in the Microsoft App Settings folder.  For example:
+
+C:\Users\User\AppData\Local\Percival_Andrews\SSRT_Robot_2.exe_Url_zszducegbgdtzp0cjjuvowgeog0ssssd\1.0.3969.38337
+
+2) copy the most recent user.config to a safe place
+
+3) install and run the new version of the software
+
+4) SHUTDOWN the new version of the software
+
+4) copy back the prior version of user.config to the new local settings folder (list by date to identify the new folder)
+
+5) to double check, open user.config in Wordpad and check contents
+
+--------------------------------------------------------------------------------------------------
+UPGRADE HISTORY
+--------------------------------------------------------------------------------------------------
+
+2 April 2011
+Fixed the misdating of Solar X-ray charts
+
+25 Jan 2011
+Attempted to fix FTP problems by specifying passive mode.  Actualy problem was that the FTP server
+changed to Linux and became case sensitive
+
+14 Nov 2010
+Implemented a signal ceiling feature to manage the effect of interference spikes on charting
+
+13 Nov 2010
+Fixed bug that stopped the hourly charting after using the 'Refresh' button
+Fixed bug (again!) to do with log files that start before midlight not displaying properly

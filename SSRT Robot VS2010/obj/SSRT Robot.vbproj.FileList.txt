@@ -1,0 +1,18 @@
+bin\SSRT Robot.exe
+bin\SSRT Robot.xml
+bin\FileTextBox.dll
+bin\zedgraph.dll
+bin\FileTextBox.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SSRT_Robot.SSRT_Robot.resources
+obj\Debug\SSRT Robot.vbproj.GenerateResource.Cache
+obj\Debug\SSRT Robot.exe
+obj\Debug\SSRT Robot.xml
+obj\Debug\SSRT Robot.pdb
+bin\SSRT Robot.exe.config
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SSRT_Robot.SSRT_Robot.resources
+obj\Release\SSRT Robot.vbproj.GenerateResource.Cache
+obj\Release\SSRT Robot.exe
+obj\Release\SSRT Robot.xml
+bin\SSRT Robot.pdb

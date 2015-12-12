@@ -1,0 +1,10 @@
+E:\Radio Telescope\Software\SSRT Robot\bin\SSRT Robot.exe.config
+E:\Radio Telescope\Software\SSRT Robot\obj\Debug\SSRT Robot.exe
+E:\Radio Telescope\Software\SSRT Robot\obj\Debug\SSRT Robot.xml
+E:\Radio Telescope\Software\SSRT Robot\obj\Debug\SSRT Robot.pdb
+E:\Radio Telescope\Software\SSRT Robot\bin\SSRT Robot.exe
+E:\Radio Telescope\Software\SSRT Robot\bin\SSRT Robot.pdb
+E:\Radio Telescope\Software\SSRT Robot\bin\SSRT Robot.xml
+E:\Radio Telescope\Software\SSRT Robot\obj\Debug\ResolveAssemblyReference.cache
+E:\Radio Telescope\Software\SSRT Robot\obj\Debug\SSRT_Robot.SSRT_Robot.resources
+E:\Radio Telescope\Software\SSRT Robot\obj\Debug\SSRT Robot.vbproj.GenerateResource.Cache

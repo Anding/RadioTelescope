@@ -1,0 +1,14 @@
+E:\Radio Telescope\Software\SSRT Robot VS2010\bin\zedgraph.dll
+E:\Radio Telescope\Software\SSRT Robot VS2010\obj\Debug\ResolveAssemblyReference.cache
+E:\Radio Telescope\Software\SSRT Robot VS2010\obj\Debug\SSRT_Robot.SSRT_Robot.resources
+E:\Radio Telescope\Software\SSRT Robot VS2010\obj\Debug\GenerateResource.read.1.tlog
+E:\Radio Telescope\Software\SSRT Robot VS2010\obj\Debug\GenerateResource.write.1.tlog
+E:\Radio Telescope\Software\SSRT Robot VS2010\obj\Debug\ResGen.read.1.tlog
+E:\Radio Telescope\Software\SSRT Robot VS2010\obj\Debug\ResGen.write.1.tlog
+E:\Radio Telescope\Software\SSRT Robot VS2010\bin\SSRT Robot 2.exe.config
+E:\Radio Telescope\Software\SSRT Robot VS2010\bin\SSRT Robot 2.exe
+E:\Radio Telescope\Software\SSRT Robot VS2010\bin\SSRT Robot 2.pdb
+E:\Radio Telescope\Software\SSRT Robot VS2010\bin\SSRT Robot 2.xml
+E:\Radio Telescope\Software\SSRT Robot VS2010\obj\Debug\SSRT Robot 2.exe
+E:\Radio Telescope\Software\SSRT Robot VS2010\obj\Debug\SSRT Robot 2.xml
+E:\Radio Telescope\Software\SSRT Robot VS2010\obj\Debug\SSRT Robot 2.pdb
